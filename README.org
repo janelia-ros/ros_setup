@@ -1,0 +1,19 @@
+#+TITLE: ros_setup
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Repository Information
+  - Author :: Peter Polidoro
+  - License :: BSD
+
+** Linux
+
+   [[https://github.com/janelia-ros/ros_setup/blob/master/ROS_SETUP_LINUX.org]]
+
+** Mac OS X
+
+   [[https://github.com/janelia-ros/ros_setup/blob/master/ROS_SETUP_MAC_OS_X.org]]
+
+** Windows
+
+   [[https://github.com/janelia-ros/ros_setup/blob/master/ROS_SETUP_WINDOWS.org]]
