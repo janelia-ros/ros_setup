@@ -1,6 +1,6 @@
 #+TITLE: Ros Setup Windows
 #+AUTHOR: Peter Polidoro
-#+EMAIL: peterpolidoro@gmail.com
+#+EMAIL: peter@polidoro.io
 
 ** Description
 
