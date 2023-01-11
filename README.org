@@ -48,9 +48,9 @@ sudo apt update
 sudo apt upgrade
 sudo apt install ros-humble-desktop
 sudo apt install ros-dev-tools
-echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
-echo "source /usr/share/colcon_cd/function/colcon_cd.sh" >> ~/.bashrc
-echo "export _colcon_cd_root=/opt/ros/humble/" >> ~/.bashrc
-echo "source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash" >> ~/.bashrc
+echo "source /opt/ros/humble/setup.bash" >> ~/.ros-setup.bash
+echo "source /usr/share/colcon_cd/function/colcon_cd.sh" >> ~/.ros-setup.bash
+echo "export _colcon_cd_root=/opt/ros/humble/" >> ~/.ros-setup.bash
+echo "source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash" >> ~/.ros-setup.bash
 #+END_SRC
 
